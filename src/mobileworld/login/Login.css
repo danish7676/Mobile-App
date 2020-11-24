@@ -1,0 +1,37 @@
+.form-control{
+    width: 400px;
+    border: 2px solid darkgray;
+}
+form{
+    border:darkseagreen solid 2px;
+    padding: 40px;
+    margin-top: 10px;
+    margin-left: 380px;
+    margin-right: 485px;
+    color: firebrick;
+    font-weight: 600;
+}
+.btn
+{
+    margin-top: 15px;
+    margin-left: 150px ;
+    padding-left: 30px;
+    padding-right: 30px;
+    margin-bottom: 30px;
+    color: lavender;
+}
+h1{
+    margin-left: 500px;
+    margin-bottom: 30px;
+    text-align: none;
+    color: red;
+    text-shadow: 2px 2px darkgrey;
+    float: inherit;
+}
+.link{
+    color: green;
+    text-decoration: underline;
+    padding-left: 150px;
+    font-weight: 500;
+}
+
